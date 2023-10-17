@@ -2,7 +2,7 @@
 History
 =======
 
-v0.16.0 (2023-07-07)
+v0.16.0*(2023-07-07)
 --------------------
 
 * identical with v0.15
@@ -11,7 +11,7 @@ v0.15.0 (2023-07-07)
 --------------------
 
 * Allow extruct to receive a parsed tree, instead of
-  an HTML string (PR #206)
+  an HTML string (PR  206)
 * Added support for Python 3.10 and 3.11
 * Removed support for Python 3.7 (PR #206)
 * Code auto-formatted with black & isort
@@ -223,3 +223,4 @@ v0.1.0 (2015-10-26)
 -------------------
 
 * First release on PyPI.
+ 
